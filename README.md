@@ -1,5 +1,6 @@
 # CodingTheHardWay
 
-
+- RoteLearning
+    - OS
 
 
