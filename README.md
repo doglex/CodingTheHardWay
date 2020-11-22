@@ -1,6 +1,6 @@
 # CodingTheHardWay
 
-<p style="color:red";>Red paragraph text</p>
+<font color=Green>八股文</font>
 
 - RoteLearning
     - OS
