@@ -1,6 +1,8 @@
 # CodingTheHardWay
 
-<font color=#008000>八股文</font>
+```diff
+! 八股文 收藏
+```
 
 - RoteLearning
     - OS
